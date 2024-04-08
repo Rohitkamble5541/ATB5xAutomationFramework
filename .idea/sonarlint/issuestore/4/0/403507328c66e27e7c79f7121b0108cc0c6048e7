@@ -1,0 +1,14 @@
+
+t
+java:S1104
+"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿ8ÎÌïë1
+N
+java:S1444
+",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿ8ÏÌïë1
+}
+java:S1118	":Add a private constructor to hide the implicit public one.(øÅÖõ8¶§ôîë1J$802f0f71-50b2-4a88-ba3f-907299a6eec9
+X	java:S125"<This block of commented-out lines of code should be removed.(ó“İÆ8ÙÌïë1
+‡
+java:S1128"?Remove this unused import 'org.testng.annotations.AfterMethod'.(ÙÅ«§ÿÿÿÿÿ8¿§ôîë1J$67c903e9-c2bb-4a70-8270-8b0b1926c506
+ˆ
+java:S1128"@Remove this unused import 'org.testng.annotations.BeforeMethod'.(‹åóùùÿÿÿÿ8¿§ôîë1J$7ea48dd9-aafb-4cfd-8645-6c57e99a4c8d

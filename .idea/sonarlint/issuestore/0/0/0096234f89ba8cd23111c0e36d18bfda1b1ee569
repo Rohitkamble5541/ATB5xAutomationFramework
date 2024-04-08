@@ -1,0 +1,9 @@
+
+”	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚éõ¼ûÿÿÿÿ8œğäíë1J$c592c16c-0fd4-4d2e-a195-969a8714f85d
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦¾ı8ğäíë1J$6740a453-0658-4ee2-8216-99f1fde852f5
+y	java:S116"XRename this field "error_message" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëĞÚıÿÿÿÿ8Ò¼§ïë1
+ƒ
+java:S1128"@Remove this unused import 'org.openqa.selenium.edge.EdgeDriver'.(ìÅ°°8²ğäíë1J$7e9dad55-15e0-4f2f-8d10-d79866fb4028
+q
+java:S1128".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§8²ğäíë1J$4f67ba39-188e-485a-8124-e9380d7aacab
